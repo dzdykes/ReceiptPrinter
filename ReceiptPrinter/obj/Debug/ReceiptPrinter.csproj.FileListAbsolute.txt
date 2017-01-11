@@ -1,0 +1,6 @@
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\bin\Debug\ReceiptPrinter.exe.config
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\bin\Debug\ReceiptPrinter.exe
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\bin\Debug\ReceiptPrinter.pdb
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\obj\Debug\ReceiptPrinter.csprojResolveAssemblyReference.cache
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\obj\Debug\ReceiptPrinter.exe
+c:\users\dylan\Desktop\ReceiptPrinter\ReceiptPrinter\obj\Debug\ReceiptPrinter.pdb
